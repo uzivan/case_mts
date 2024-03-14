@@ -18,6 +18,7 @@ class Recipes {
         recipeMap.put("Кофе", new String[]{"зерна кофе", "зерна кофе"});
     }
 
+
     static String[] getIngredients(String dish) {
         return recipeMap.get(dish);
     }
