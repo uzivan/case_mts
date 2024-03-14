@@ -1,9 +1,7 @@
-package com.mts.mts_case;
+package services;
 
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Properties;
 
 //public class RawMaterialPurchaseSystem {
